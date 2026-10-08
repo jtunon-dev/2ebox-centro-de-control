@@ -1,0 +1,4 @@
+# Nunca subir el reporte en claro ni la clave
+centro-de-control*.html
+*.clave*
+.clave_produccion.txt
